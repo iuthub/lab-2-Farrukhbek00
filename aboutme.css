@@ -1,0 +1,29 @@
+body {
+  margin: 25px;
+  background-color: rgb(240,240,240);
+  font-family: arial, sans-serif;
+  font-size: 14px;
+}
+
+/* Applies to all <h1>...</h1> elements. */
+h1 {
+  font-size: 35px;
+  font-weight: normal;
+  margin-top: 5px;
+}
+
+/* Applies to all elements with <... class="someclass"> specified. */
+.class{ color: red; }
+.left{
+  float: left;
+}
+.right{
+  float:left;
+}
+.pas{
+  float:none;
+}
+body {
+  background-color: lightblue;
+
+}
